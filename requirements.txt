@@ -1,0 +1,9 @@
+# PDPS-Core Requirements
+# Persona-Driven Problem Solving Framework
+
+# No external dependencies required for core functionality
+# The framework uses only Python standard library
+
+# Optional: For future enhancements
+# rich>=13.0.0  # For better CLI formatting
+# pydantic>=2.0.0  # For data validation
